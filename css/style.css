@@ -1,0 +1,25 @@
+* {
+    transition: all 0.75s;
+    -webkit-transition: all 0.75s;
+    -moz-transition: all 0.75s;
+    -ms-transition: all 0.75s;
+    -o-transition: all 0.75s;
+}
+
+nav a img {
+    width: 70px;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+nav a span {
+    font-family: 'Festive', cursive;
+    font-family: 'Irish Grover', cursive;
+}
+
+.dis-team {
+    display: none;
+}
